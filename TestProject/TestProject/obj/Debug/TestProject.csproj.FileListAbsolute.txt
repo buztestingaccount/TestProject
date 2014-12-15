@@ -1,0 +1,9 @@
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.Cache
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\gobin_000\Documents\GitHub\test\TestProject\TestProject\TestProject\obj\Debug\TestProject.pdb
